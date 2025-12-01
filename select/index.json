@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ifu",
+  "base_artist": "Teemeeki",
+  "createdAt": "2025-12-01T11:30:33.614387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ifu",
+      "artist": "z²",
+      "has_synced": true,
+      "path": "select/01_ifu_z2.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "If U Seek Amy",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/pl_01_If_U_Seek_Amy_Britney_Spears.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "IF U WANT",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/pl_02_IF_U_WANT_Britney_Spears.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "If U Seek Amy",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/pl_03_If_U_Seek_Amy_Britney_Spears.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "If U Wanna",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/pl_04_If_U_Wanna_Britney_Spears.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "if u",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/pl_05_if_u_Britney_Spears.txt"
+    }
+  ]
+}
